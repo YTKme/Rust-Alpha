@@ -1,2 +1,3 @@
-# Rust-Alpha
+# Rust Alpha
+
 Rust Alpha
